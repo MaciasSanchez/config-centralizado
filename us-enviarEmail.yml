@@ -1,16 +1,14 @@
 server:
   port: 8088
   
-  
-  
 spring:
   mail:
     default-encoding: UTF-8
     host: smtp.gmail.com
-    password: rzhasqlqikxleskd
+    password: hxkeomdwuoggxzue
     port: 587
     properties:
-      mail:
+       mail:
         smtp:
           auth: true
           connectiontimeout: 5000
@@ -19,7 +17,7 @@ spring:
             required: true
           timeout: 5000
           writetimeout: 5000
-    username: fau.obregon@gmail.com
+    username: angelica.macias.sa91@gmail.com
     
 # ESPECIFICACION DEL KAFKA SERVER  
   kafka:
