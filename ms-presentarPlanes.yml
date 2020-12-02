@@ -1,0 +1,6 @@
+server:
+  port: 8100
+
+uri:
+  es-plancomercial: http://localhost:8075
+  es-valoresconfigurables: http://localhost:8051
